@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NoPoker</h1>
+<h1 align="center">Hi 👋, I'm Sh1wOo</h1>
 <h3 align="center">A impetuous developer from Belarus</h3>
 
 <h3 align="left">Connect with me:</h3>
