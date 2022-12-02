@@ -4,6 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/mNrFWU9cgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mNrFWU9cgw" height="30" width="40" /></a>
+<a href="t.me/sh1woo">Telegram</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
